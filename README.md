@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Camada de enlace – SLIP
 
 Nesta prática, vamos implementar o SLIP, um protocolo de camada de enlace muito simples que funciona sobre linhas seriais. O SLIP é definido pela [RFC 1055](https://tools.ietf.org/html/rfc1055), que tem apenas 6 páginas (e isso incluindo exemplos de código em C)!
@@ -57,3 +58,6 @@ O arquivo `exemplo_integracao.py` gruda todas as camadas implementadas até o mo
 O Linux também possui uma implementação de SLIP, então é possível colocar ambas as implementações para conversar, como se fossem máquinas diferentes (mesmo que estejam executando no mesmo computador). Para fazer isso, execute `./exemplo_integracao.py` e siga as instruções da tela.
 
 Para adiantar o seu T5, modifique o arquivo `exemplo_integracao.py` para implementar a sua camada de aplicação, assim como você talvez já tenha feito nos Trabalhos 2 e 3.
+=======
+# redes-t4
+>>>>>>> c6c98ad5750d8f2ca576c39701172cb352f1a79a
